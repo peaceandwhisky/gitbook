@@ -22,7 +22,7 @@ layout:
 
 どげんかせんといかんばい Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+ぶりぶり some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
 ### Jump right in
 
